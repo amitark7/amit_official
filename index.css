@@ -488,9 +488,15 @@ footer{
 }
 .about .about-content .right{
     width: 50%;
+    padding: 18px 0px;
 }
 .about .about-content .left{
     width:50%
+}
+.about .about-content .right .text{
+    font-size: 23px;
+    font-weight: 600;
+    margin-bottom: 10px;
 }
 }
 
