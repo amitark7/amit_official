@@ -479,7 +479,20 @@ footer{
 }
 
 /* Responsive Media Query  */
-
+@media (max-width:1090px){
+.about .about-content .left img {
+    width: 400px;
+    height: 450px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.about .about-content .right{
+    width: 50%;
+}
+.about .about-content .left{
+    width:50%
+}
+}
 
 @media (max-width:965px){
     .max-width{
